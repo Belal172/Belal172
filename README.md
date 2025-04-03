@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Belal172
+- 👋 Hi, I’m Milan Belal
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning php
+- 🌱 I’m currently learning php, laravel ,vuejs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.facebook.com/milanbelal.belalmilan
 - 😄 Pronouns: ...
